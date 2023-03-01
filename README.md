@@ -9,3 +9,5 @@ A valid username gen for chess.com ^^
  Print Style:
  <h4>
  https://github.com/Hazza3100
+<h4>
+I will try to fix the print format...
