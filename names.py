@@ -16,7 +16,7 @@ def check():
         
         name = ''.join(random.choices(string.ascii_letters + string.digits , k=lng))
         cookies = {
-            'PHPSESSID': 'phpsessid',
+            'PHPSESSID': phpsessid,
         }
         
         headers = {
